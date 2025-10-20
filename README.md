@@ -6,6 +6,14 @@ It uses an ESP8266 and DY-SV5W music card.  A schematic is included for the wiri
 
 I have a video on Youtube to explain the entire build from modifying the parts in Bambu Studio to compiling the source code.  The link will be provided soon (still working on it). 
 
+Jukebox 3D project
+https://makerworld.com/en/models/1261929-jukebox-night-light-and-music-box#profileId-1286728
+
+Bracket for 8266 and DY-SV5W
+https://makerworld.com/en/models/1867804-esp8266-arduino-dy-sv5w-music-mounting-bracket#profileId-1998763
+
+
+
 Components required:
 
 DY-SV5W Music board
@@ -14,7 +22,7 @@ https://www.amazon.com/dp/B0BLCHH95W
 Gikfun 2" 4 ohm 5watt speaker
 https://www.amazon.com/dp/B081169PC5
 
-WS2812B LED Ring 24 bits RGB (several choices)
+WS2812B LED Ring 24 bits RGB
 https://www.amazon.com/Sparkleiot-Integrated-Drivers-Arduino-Raspberry/dp/B09K58DMMX
 https://www.amazon.com/dp/B0B2D7742J
 
