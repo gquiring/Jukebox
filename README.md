@@ -6,6 +6,8 @@ It uses an ESP8266 and DY-SV5W music card.  A schematic is included for the wiri
 
 I have a video on Youtube to explain the entire build from modifying the parts in Bambu Studio to compiling the source code.  The link will be provided soon (still working on it). 
 
+After downloading the project from Github, unzip the file 'jukebox-main' to your default Arduino directory.  Then rename the 'jukebox-main' to 'jukebox'.  
+
 Jukebox 3D project
 https://makerworld.com/en/models/1261929-jukebox-night-light-and-music-box#profileId-1286728
 
