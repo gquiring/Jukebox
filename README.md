@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/117e4b74-41d2-4169-b9a1-a93a3d777426
-
 Jukebox MP3 player
 
 This project will show you how to modify some parts for this nice jukebox (not my design) to convert a wind up music box player to a MP3 player that will shuffle music on a micro-SD card.  This is a very basic player, it shuffles the music and lights up a LED ring in the base of the jukebox.  The source is available on Github.
