@@ -10,6 +10,9 @@ I have a video on Youtube to explain the entire build from modifying the parts i
 
 After downloading the project from Github, unzip the file 'jukebox-main' to your default Arduino directory.  Then rename the 'jukebox-main' to 'jukebox'.  
 
+https://youtu.be/aGjDbqXvqxg
+
+
 <h3>Jukebox 3D project</h3>
 
 https://makerworld.com/en/models/1261929-jukebox-night-light-and-music-box#profileId-1286728
