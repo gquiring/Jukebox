@@ -7,6 +7,8 @@ By Gary Quiring
 Big thank you to the folks at Digital Town for their SV5W examples
 https://www.digitaltown.co.uk/components18DYSV5W.php
 
+Video Howto:
+https://youtu.be/aGjDbqXvqxg
 
 Components required
 DY-SV5W Music board
