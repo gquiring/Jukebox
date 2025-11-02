@@ -6,7 +6,8 @@ This project will show you how to modify some parts for this nice jukebox (not m
 
 It uses an ESP8266 and DY-SV5W music card.  A schematic is included for the wiring, it’s only a few wires and should not be difficult for anyone who has some basic soldering skills.  
 
-I have a video on Youtube to explain the entire build from modifying the parts in Bambu Studio to compiling the source code.  The link will be provided soon (still working on it). 
+I have a video on Youtube to explain the entire build from modifying the parts in Bambu Studio to compiling the source code.  https://youtu.be/aGjDbqXvqxg
+
 
 After downloading the project from Github, unzip the file 'jukebox-main' to your default Arduino directory.  Then rename the 'jukebox-main' to 'jukebox'.  
 
